@@ -13,3 +13,7 @@ Hotel Data : The primary dataset used for this analysis is the "hotel_booking.cs
 Excel
 <br>
 Power Query Editor
+
+### Dashboard Overview
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/b5a7bf99-d588-4831-8f28-74d563bdf743)
