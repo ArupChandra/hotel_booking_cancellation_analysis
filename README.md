@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the hotel's booking cancellation reports of three years. By analyzing various aspects of the data, seek to gain a deeper knowledge of booking timings, peak seasons and other aspects throughly.
+This data analysis project aims to provide insights into the hotel's booking cancellation reports of three years. By analyzing various aspects of the data, seek to gain a deeper knowledge of booking timings, cancellation reasons, types of bookings and other aspects throughly.
 
 ### Data Source
 
